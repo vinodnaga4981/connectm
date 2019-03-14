@@ -1,0 +1,48 @@
+{
+  "R1": [
+    {
+      "vehicleid": "v1",
+      "vehiclename": "Bus1",
+      "status": "R",
+      "stopID": "S1",
+      "stopName": "Stop1"
+    },
+    {
+      "vehicleid": "v2",
+      "vehiclename": "Bus2",
+      "status": "G",
+      "stopID": "S7",
+      "stopName": "Stop7"
+    },
+    {
+      "vehicleid": "v3",
+      "vehiclename": "Bus3",
+      "status": "B",
+      "stopID": "S37",
+      "stopName": "Stop37"
+    },
+  ],
+  "R2": [
+    {
+      "vehicleid": "v9",
+      "vehiclename": "Bus9",
+      "status": "G",
+      "stopID": "S30",
+      "stopName": "Stop30"
+    },
+    {
+      "vehicleid": "v7",
+      "vehiclename": "Bus1",
+      "status": "B",
+      "stopID": "S17",
+      "stopName": "Stop17"
+    },
+    {
+      "vehicleid": "v8",
+      "vehiclename": "Bus8",
+      "status": "R",
+      "stopID": "S6",
+      "stopName": "Stop6"
+    }
+  ]
+}
